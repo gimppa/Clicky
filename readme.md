@@ -1,1 +1,1 @@
-Button go cliky clicky
+Button go clicky clicky
